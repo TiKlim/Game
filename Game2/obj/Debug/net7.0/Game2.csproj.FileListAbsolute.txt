@@ -1,0 +1,15 @@
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.csproj.AssemblyReference.cache
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.AssemblyInfoInputs.cache
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.AssemblyInfo.cs
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Klim\Game2\bin\Debug\net7.0\Game2.exe
+C:\Users\prdb\Klim\Game2\bin\Debug\net7.0\Game2.deps.json
+C:\Users\prdb\Klim\Game2\bin\Debug\net7.0\Game2.runtimeconfig.json
+C:\Users\prdb\Klim\Game2\bin\Debug\net7.0\Game2.dll
+C:\Users\prdb\Klim\Game2\bin\Debug\net7.0\Game2.pdb
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.dll
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\refint\Game2.dll
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.pdb
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\Game2.genruntimeconfig.cache
+C:\Users\prdb\Klim\Game2\obj\Debug\net7.0\ref\Game2.dll
