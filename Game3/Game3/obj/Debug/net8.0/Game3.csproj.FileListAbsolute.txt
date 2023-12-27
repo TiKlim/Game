@@ -1,0 +1,14 @@
+C:\Users\Клим\source\repos\Game3\Game3\bin\Debug\net8.0\Game3.exe
+C:\Users\Клим\source\repos\Game3\Game3\bin\Debug\net8.0\Game3.deps.json
+C:\Users\Клим\source\repos\Game3\Game3\bin\Debug\net8.0\Game3.runtimeconfig.json
+C:\Users\Клим\source\repos\Game3\Game3\bin\Debug\net8.0\Game3.dll
+C:\Users\Клим\source\repos\Game3\Game3\bin\Debug\net8.0\Game3.pdb
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.AssemblyInfoInputs.cache
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.AssemblyInfo.cs
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.csproj.CoreCompileInputs.cache
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.dll
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\refint\Game3.dll
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.pdb
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\Game3.genruntimeconfig.cache
+C:\Users\Клим\source\repos\Game3\Game3\obj\Debug\net8.0\ref\Game3.dll
