@@ -1,0 +1,14 @@
+C:\Users\Клим\source\repos\Game5\Game5\bin\Debug\net8.0\Game5.exe
+C:\Users\Клим\source\repos\Game5\Game5\bin\Debug\net8.0\Game5.deps.json
+C:\Users\Клим\source\repos\Game5\Game5\bin\Debug\net8.0\Game5.runtimeconfig.json
+C:\Users\Клим\source\repos\Game5\Game5\bin\Debug\net8.0\Game5.dll
+C:\Users\Клим\source\repos\Game5\Game5\bin\Debug\net8.0\Game5.pdb
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.AssemblyInfoInputs.cache
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.AssemblyInfo.cs
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.csproj.CoreCompileInputs.cache
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.dll
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\refint\Game5.dll
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.pdb
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\Game5.genruntimeconfig.cache
+C:\Users\Клим\source\repos\Game5\Game5\obj\Debug\net8.0\ref\Game5.dll
